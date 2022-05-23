@@ -1,0 +1,12 @@
+{
+  "domain": "tw_average",
+  "name": "Time-weighted average sensor",
+  "documentation": "",
+  "requirements": [],
+  "codeowners": [],
+  "version": "1.0",
+  "config_flow": false,
+  "iot_class": "local_polling",
+  "dependencies": ["group", "sensor"],
+  "after_dependencies": []
+}
